@@ -57,27 +57,27 @@ namespace Length
                         result = con * 100;
                         System.Console.WriteLine($"{result}cm");
                     }
-                    if (choice == 2)
+                    else if (choice == 2)
                     {
                         result = con / 1000;
                         System.Console.WriteLine($"{result}km");
                     }
-                    if (choice == 3)
+                    else if (choice == 3)
                     {
                         result = con / 1609.34;
                         System.Console.WriteLine($"{result}miles");
                     }
-                    if (choice == 4)
+                    else if (choice == 4)
                     {
                         result = con / 100;
                         System.Console.WriteLine($"{result}m");
                     }
-                    if (choice == 5)
+                    else if (choice == 5)
                     {
                         result = con * 1000;
                         System.Console.WriteLine($"{result}m");
                     }
-                    if (choice == 6)
+                    else if (choice == 6)
                     {
                         result = con * 1609.34;
                         System.Console.WriteLine($"{result}m");

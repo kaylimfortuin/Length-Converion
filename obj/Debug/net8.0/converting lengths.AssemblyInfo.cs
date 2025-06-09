@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("converting lengths")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66e716d5d2db6a356ee6f11720f8754a5348df13")]
 [assembly: System.Reflection.AssemblyProductAttribute("converting lengths")]
 [assembly: System.Reflection.AssemblyTitleAttribute("converting lengths")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
